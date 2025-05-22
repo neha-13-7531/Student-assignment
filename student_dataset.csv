@@ -1,0 +1,151 @@
+StudentID,Name,Gender,Course,Age,Marks,Grade,City
+2001,Isha,Female,Data Science,27,82,F,Bangalore
+2002,Aarav,Female,Data Science,27,42,A,Hyderabad
+2003,Vivaan,Male,Web Development,24,98,B,Kolkata
+2004,Sanya,Female,Web Development,23,52,A,Hyderabad
+2005,Anaya,Female,Web Development,28,51,A,Hyderabad
+2006,Aarav,Male,Web Development,28,96,D,Mumbai
+2007,Sanya,Male,Data Science,18,87,D,Delhi
+2008,Kabir,Male,AI & ML,26,86,B,Delhi
+2009,Meera,Female,Data Science,18,80,A,Bangalore
+2010,Isha,Male,AI & ML,22,85,C,Bangalore
+2011,Aarav,Female,Data Science,26,99,B,Hyderabad
+2012,Anaya,Female,Cyber Security,30,50,C,Bangalore
+2013,Isha,Female,Cloud Computing,20,99,D,Bangalore
+2014,Diya,Female,Cyber Security,25,47,C,Bangalore
+2015,Aryan,Male,Data Science,24,76,C,Bangalore
+2016,Isha,Female,AI & ML,18,84,B,Mumbai
+2017,Meera,Male,Web Development,23,50,C,Bangalore
+2018,Aarav,Female,Data Science,27,100,C,Kolkata
+2019,Kabir,Female,Cyber Security,25,90,A,Bangalore
+2020,Sanya,Female,Cyber Security,24,55,D,Hyderabad
+2021,Diya,Female,Web Development,24,46,C,Bangalore
+2022,Meera,Female,Web Development,30,46,F,Kolkata
+2023,Aarav,Male,Data Science,30,76,F,Kolkata
+2024,Aarav,Male,Cloud Computing,28,43,B,Mumbai
+2025,Sanya,Male,AI & ML,26,72,B,Delhi
+2026,Isha,Male,Data Science,19,44,B,Kolkata
+2027,Rohan,Female,Web Development,19,62,A,Kolkata
+2028,Isha,Male,Data Science,29,73,A,Mumbai
+2029,Vivaan,Female,Data Science,22,45,B,Bangalore
+2030,Aarav,Female,AI & ML,21,60,B,Kolkata
+2031,Rohan,Female,Data Science,24,92,D,Bangalore
+2032,Vivaan,Male,Cyber Security,30,83,C,Kolkata
+2033,Vivaan,Female,Data Science,21,84,B,Bangalore
+2034,Vivaan,Male,Data Science,24,85,B,Delhi
+2035,Isha,Male,Web Development,28,53,C,Bangalore
+2036,Vivaan,Female,Data Science,18,64,C,Bangalore
+2037,Diya,Female,Web Development,29,100,C,Bangalore
+2038,Anaya,Male,Web Development,26,59,C,Bangalore
+2039,Vivaan,Female,Data Science,27,83,A,Kolkata
+2040,Diya,Female,AI & ML,29,90,F,Kolkata
+2041,Sanya,Female,Data Science,26,85,F,Hyderabad
+2042,Meera,Male,Data Science,28,51,F,Hyderabad
+2043,Kabir,Male,Cyber Security,20,57,A,Kolkata
+2044,Diya,Female,Cyber Security,28,61,D,Delhi
+2045,Vivaan,Female,AI & ML,30,60,D,Bangalore
+2046,Anaya,Male,AI & ML,30,41,A,Kolkata
+2047,Aryan,Male,Data Science,22,95,F,Hyderabad
+2048,Vivaan,Male,Web Development,25,91,C,Hyderabad
+2049,Isha,Male,Web Development,29,57,A,Bangalore
+2050,Isha,Male,Web Development,21,94,D,Bangalore
+2051,Isha,Male,AI & ML,28,56,C,Hyderabad
+2052,Meera,Male,Data Science,23,45,C,Hyderabad
+2053,Anaya,Female,Cloud Computing,23,44,F,Kolkata
+2054,Diya,Male,Cloud Computing,29,61,A,Hyderabad
+2055,Anaya,Male,Web Development,24,52,B,Mumbai
+2056,Anaya,Female,Web Development,30,81,A,Mumbai
+2057,Kabir,Male,AI & ML,22,54,C,Delhi
+2058,Sanya,Male,Web Development,21,49,A,Mumbai
+2059,Anaya,Male,AI & ML,28,56,F,Bangalore
+2060,Anaya,Male,Cyber Security,18,95,F,Hyderabad
+2061,Rohan,Male,AI & ML,25,65,A,Mumbai
+2062,Kabir,Female,Data Science,18,43,D,Hyderabad
+2063,Aarav,Male,Web Development,23,42,A,Mumbai
+2064,Rohan,Male,AI & ML,19,59,D,Bangalore
+2065,Sanya,Male,Cyber Security,20,56,C,Delhi
+2066,Anaya,Female,Web Development,30,58,A,Kolkata
+2067,Anaya,Male,Cloud Computing,29,52,C,Mumbai
+2068,Kabir,Male,Web Development,25,51,F,Delhi
+2069,Sanya,Female,Data Science,30,50,D,Mumbai
+2070,Diya,Female,AI & ML,23,99,F,Hyderabad
+2071,Aryan,Male,Web Development,18,49,A,Bangalore
+2072,Aarav,Female,Cloud Computing,19,92,B,Kolkata
+2073,Rohan,Female,Cyber Security,25,54,C,Bangalore
+2074,Diya,Female,Cyber Security,19,81,F,Bangalore
+2075,Rohan,Female,Cloud Computing,23,96,F,Bangalore
+2076,Aryan,Female,AI & ML,21,78,A,Bangalore
+2077,Kabir,Female,AI & ML,26,64,C,Bangalore
+2078,Diya,Female,AI & ML,25,84,F,Bangalore
+2079,Aryan,Male,AI & ML,30,65,F,Mumbai
+2080,Rohan,Male,Web Development,24,94,D,Hyderabad
+2081,Aryan,Male,AI & ML,28,54,D,Hyderabad
+2082,Meera,Female,Cyber Security,25,69,C,Mumbai
+2083,Sanya,Male,Cyber Security,20,54,A,Hyderabad
+2084,Sanya,Male,Cloud Computing,29,62,C,Bangalore
+2085,Kabir,Male,Data Science,19,47,D,Bangalore
+2086,Sanya,Female,Data Science,21,77,F,Hyderabad
+2087,Diya,Male,Web Development,23,67,A,Delhi
+2088,Sanya,Male,AI & ML,25,68,C,Bangalore
+2089,Vivaan,Male,Cyber Security,18,51,B,Kolkata
+2090,Aarav,Male,Cyber Security,22,52,C,Hyderabad
+2091,Anaya,Female,Web Development,27,49,D,Hyderabad
+2092,Kabir,Male,Web Development,19,69,D,Hyderabad
+2093,Anaya,Male,Cyber Security,27,79,A,Mumbai
+2094,Kabir,Male,Data Science,26,51,A,Kolkata
+2095,Diya,Male,Web Development,27,49,D,Kolkata
+2096,Vivaan,Female,Data Science,23,52,D,Mumbai
+2097,Meera,Female,Cloud Computing,24,54,D,Hyderabad
+2098,Anaya,Male,Cyber Security,25,76,F,Hyderabad
+2099,Anaya,Male,AI & ML,27,44,C,Mumbai
+2100,Aarav,Female,AI & ML,19,65,A,Delhi
+2101,Kabir,Female,Cyber Security,24,60,A,Kolkata
+2102,Isha,Female,Web Development,30,58,B,Mumbai
+2103,Aryan,Male,Cyber Security,28,61,A,Bangalore
+2104,Anaya,Female,Cloud Computing,28,57,D,Bangalore
+2105,Isha,Female,Data Science,23,97,B,Bangalore
+2106,Diya,Female,AI & ML,23,70,F,Mumbai
+2107,Vivaan,Female,AI & ML,28,68,D,Delhi
+2108,Sanya,Male,Data Science,24,40,B,Mumbai
+2109,Sanya,Male,AI & ML,27,59,C,Hyderabad
+2110,Kabir,Male,Cloud Computing,27,66,C,Mumbai
+2111,Aryan,Male,Data Science,23,71,A,Kolkata
+2112,Vivaan,Female,Cloud Computing,18,85,B,Mumbai
+2113,Diya,Male,AI & ML,20,90,A,Kolkata
+2114,Isha,Female,Cloud Computing,23,76,C,Bangalore
+2115,Kabir,Female,Cloud Computing,27,60,F,Mumbai
+2116,Aarav,Male,Web Development,29,58,A,Bangalore
+2117,Meera,Female,Data Science,30,77,D,Mumbai
+2118,Sanya,Male,Data Science,18,91,D,Bangalore
+2119,Sanya,Male,Cyber Security,25,54,A,Kolkata
+2120,Aryan,Female,AI & ML,25,96,A,Delhi
+2121,Isha,Female,Cyber Security,20,78,D,Bangalore
+2122,Isha,Female,Data Science,21,60,A,Mumbai
+2123,Vivaan,Male,Cloud Computing,25,85,C,Bangalore
+2124,Rohan,Female,Data Science,25,77,F,Mumbai
+2125,Kabir,Male,Cyber Security,26,97,D,Kolkata
+2126,Anaya,Female,AI & ML,24,73,A,Kolkata
+2127,Isha,Male,Cloud Computing,18,90,A,Bangalore
+2128,Vivaan,Male,Web Development,29,62,C,Bangalore
+2129,Aarav,Female,Web Development,30,41,F,Mumbai
+2130,Kabir,Male,Web Development,24,43,D,Kolkata
+2131,Meera,Male,Web Development,23,40,C,Bangalore
+2132,Isha,Male,Data Science,30,99,B,Kolkata
+2133,Aryan,Female,AI & ML,27,76,D,Bangalore
+2134,Meera,Female,Data Science,30,77,C,Bangalore
+2135,Aarav,Male,Cyber Security,23,79,A,Delhi
+2136,Anaya,Female,AI & ML,19,75,B,Mumbai
+2137,Isha,Male,Data Science,21,55,B,Delhi
+2138,Aarav,Male,AI & ML,20,51,D,Kolkata
+2139,Diya,Male,AI & ML,22,61,A,Mumbai
+2140,Anaya,Female,Cyber Security,23,57,C,Mumbai
+2141,Aryan,Male,Web Development,24,55,B,Delhi
+2142,Kabir,Male,Cloud Computing,24,46,B,Bangalore
+2143,Diya,Female,Web Development,29,88,F,Hyderabad
+2144,Sanya,Female,Web Development,26,59,D,Kolkata
+2145,Anaya,Female,Cloud Computing,23,65,D,Hyderabad
+2146,Anaya,Male,Cloud Computing,19,44,B,Bangalore
+2147,Meera,Female,AI & ML,18,57,D,Hyderabad
+2148,Kabir,Female,Cloud Computing,21,92,F,Bangalore
+2149,Sanya,Female,Cyber Security,26,60,D,Delhi
+2150,Diya,Female,AI & ML,24,44,F,Delhi
